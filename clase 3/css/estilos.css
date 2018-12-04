@@ -1,0 +1,36 @@
+#div1{
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  margin: 30px;
+  position: relative;
+}
+
+#div2{
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  margin: 30px;
+  position: relative;
+  bottom: 430px;
+  left: 430px;
+}
+
+#div3{
+  width: 400px;
+  height: 400px;
+  background-color: green;
+  margin: 30px;
+  position: relative;
+  bottom: 430px;
+}
+
+#div4{
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  margin: 30px;
+  position: relative;
+  bottom: 860px;
+  left: 430px;
+}
